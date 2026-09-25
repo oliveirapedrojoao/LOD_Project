@@ -1,2 +1,0 @@
-# LOD_Project
-Teste!
